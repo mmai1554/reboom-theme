@@ -1,9 +1,9 @@
 /*
-Theme Name: MaiNetCare
+Theme Name: ReBoom
 Description: Special built theme for beaver-builder
 Version: 1.0
-Author: MaiNetCare GmbH
-Author URI: https://mainetcare.de
+Author: ReBoom GmbH
+Author URI: https://reboom.de
 Template: bb-theme
 */
 @import "mi_mixins";
@@ -89,8 +89,8 @@ a:hover, .fl-builder a:hover {
 }
 
 .mi-ul ul, .mi-ul.ul {
-  padding-left:calc(1.4em + .7vw);
-  list-style: none url("/wp-content/themes/mainetcare/assets/mi-lp.svg");
+    padding-left:calc(1.4em + .7vw);
+  list-style: none url("/wp-content/themes/reboom-theme/assets/mi-lp.svg");
 }
 
 .mi-small-font {
